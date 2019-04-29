@@ -1,0 +1,15 @@
+numpy
+pandas
+matplotlib
+seaborn
+re
+scipy
+plotly
+cufflinks
+pycountry
+pycountry_convert
+ipython
+dash
+mlxtend
+kmodes
+sklearn
