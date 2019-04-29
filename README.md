@@ -1,9 +1,9 @@
 # Data Analysis : Online Retail Transnational Dataset
 <br><br>
- <font size = '7'><b> Dataset description and source </b></font>
+ <h2> Dataset description and source </h2>
  <hr>
 The dataset used in this demonstration can be found in the UCI machine learning repository and it can be accessed via <a href = 'http://archive.ics.uci.edu/ml/datasets/Online+Retail'>this link</a>.
-<br>
+<br><br>
 <blockquote>"This is a transnational data set which contains all the transactions occurring between 01/12/2010 and 09/12/2011 for a UK-based and registered non-store online retail.The company mainly sells unique all-occasion gifts. Many customers of the company are wholesalers."</blockquote>
 <br>
 It contains 8 attributes which are fully described below:
@@ -17,8 +17,8 @@ It contains 8 attributes which are fully described below:
 * Country: Country name. Nominal, the name of the country where each customer resides.
 
 <br><br>
- <font size = '7'><b> Flow of the project </b></font><hr>
- 
+ <h2> Flow of the project </b><h2>
+<hr> 
 In this demonstration, we are going to process and analyze a dataset for a non-store online retail. The complete details of each step is provided inside the notebooks.
 
 The first step is <a href='https://github.com/amir-hojjati/Data-Analysis-Online-Retail-Transactions/blob/master/Data-Preprocessing/Preprocessing-and-Cleaning.ipynb'>data cleaning and preprocessing</a> so we can feed good and cleaned data to the next levels.
@@ -29,7 +29,7 @@ There will be also an <a href='https://github.com/amir-hojjati/Data-Analysis-Onl
 In the last step we will use clustering for <a href='https://github.com/amir-hojjati/Data-Analysis-Online-Retail-Transactions/blob/master/Customer-Segmentation-and-Association-Rule-Learning/Customer-Segmentation-Clustering.ipynb'>customer segmentation</a> and to find customer groups with similar behaviors for further analysis and business strategy planning.
 In this section we will also try to find the best <a href='https://github.com/amir-hojjati/Data-Analysis-Online-Retail-Transactions/blob/master/Customer-Segmentation-and-Association-Rule-Learning/Association-Rule-Mining.ipynb'>association rules</a> and to see which set of products were often bought together.
 <br><br>
-<font size = '7'><b> Implementation </b></font>
+<h2> Implementation </h2>
 <hr>
 This project was done in python using jupyter notebook. The required libraries for complete implementation can be found in the <a href='https://github.com/amir-hojjati/Data-Analysis-Online-Retail-Transactions/blob/master/Requirements.txt'>requirements</a> file.
 
