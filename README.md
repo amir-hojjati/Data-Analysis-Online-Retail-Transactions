@@ -1,5 +1,5 @@
 # Data Analysis : Online Retail Transnational Dataset
-<br><br>
+<br>
  <h2> Dataset description and source </h2>
  <hr>
 The dataset used in this demonstration can be found in the UCI machine learning repository and it can be accessed via <a href = 'http://archive.ics.uci.edu/ml/datasets/Online+Retail'>this link</a>.
@@ -17,7 +17,7 @@ It contains 8 attributes which are fully described below:
 * Country: Country name. Nominal, the name of the country where each customer resides.
 
 <br><br>
- <h2> Flow of the project </b><h2>
+ <h2> Flow of the project </h2>
 <hr> 
 In this demonstration, we are going to process and analyze a dataset for a non-store online retail. The complete details of each step is provided inside the notebooks.
 
