@@ -17,7 +17,7 @@ It contains 8 attributes which are fully described below:
 - CustomerID: Customer number. Nominal, a 5-digit integral number uniquely assigned to each customer.  
 - Country: Country name. Nominal, the name of the country where each customer resides.
 
-<br><br>
+<br>
  <h2> Flow of the project </h2>
 <hr> 
 In this demonstration, we are going to process and analyze a dataset for a non-store online retail. The complete details of each step is provided inside the notebooks. The summary of this project is as follows:
@@ -30,7 +30,7 @@ There will be also an <a href='https://github.com/amir-hojjati/Data-Analysis-Onl
 3. In the last step we will use clustering for <a href='https://github.com/amir-hojjati/Data-Analysis-Online-Retail-Transactions/blob/master/Customer-Segmentation-and-Association-Rule-Learning/Customer-Segmentation-Clustering.ipynb'>customer segmentation</a> and to find customer groups with similar behaviors for further analysis and business strategy planning.
 In this section we will also try to find the best <a href='https://github.com/amir-hojjati/Data-Analysis-Online-Retail-Transactions/blob/master/Customer-Segmentation-and-Association-Rule-Learning/Association-Rule-Mining.ipynb'>association rules</a> and to see which set of products were often bought together.
 
-<br><br>
+<br>
 <h2> Implementation </h2>
 <hr>
 This project was done in python using jupyter notebook. The required libraries for complete implementation can be found in the <a href='https://github.com/amir-hojjati/Data-Analysis-Online-Retail-Transactions/blob/master/Requirements.txt'>requirements</a> file.
