@@ -20,15 +20,16 @@ It contains 8 attributes which are fully described below:
 <br><br>
  <h2> Flow of the project </h2>
 <hr> 
-In this demonstration, we are going to process and analyze a dataset for a non-store online retail. The complete details of each step is provided inside the notebooks.
-<br>
-The first step is <a href='https://github.com/amir-hojjati/Data-Analysis-Online-Retail-Transactions/blob/master/Data-Preprocessing/Preprocessing-and-Cleaning.ipynb'>data cleaning and preprocessing</a> so we can feed good and cleaned data to the next levels.
+In this demonstration, we are going to process and analyze a dataset for a non-store online retail. The complete details of each step is provided inside the notebooks. The summary of this project is as follows:
 
-The second step is <a href='https://github.com/amir-hojjati/Data-Analysis-Online-Retail-Transactions/blob/master/Data-Visualization/1-Visualization-and-Reports.ipynb'>EDA and data visualization</a> and we will inspect the cleaned data for useful information.
+1. The first step is <a href='https://github.com/amir-hojjati/Data-Analysis-Online-Retail-Transactions/blob/master/Data-Preprocessing/Preprocessing-and-Cleaning.ipynb'>data cleaning and preprocessing</a> so we can feed good and cleaned data to the next levels.
+
+2. The second step is <a href='https://github.com/amir-hojjati/Data-Analysis-Online-Retail-Transactions/blob/master/Data-Visualization/1-Visualization-and-Reports.ipynb'>EDA and data visualization</a> and we will inspect the cleaned data for useful information.
 There will be also an <a href='https://github.com/amir-hojjati/Data-Analysis-Online-Retail-Transactions/blob/master/Data-Visualization/3-Dashboard-Sales.ipynb'>interactive dashboard</a> and a <a href='https://github.com/amir-hojjati/Data-Analysis-Online-Retail-Transactions/blob/master/Data-Visualization/2-Choropleth-Map.ipynb'>choropleth map</a> to get a better perspective.
 
-In the last step we will use clustering for <a href='https://github.com/amir-hojjati/Data-Analysis-Online-Retail-Transactions/blob/master/Customer-Segmentation-and-Association-Rule-Learning/Customer-Segmentation-Clustering.ipynb'>customer segmentation</a> and to find customer groups with similar behaviors for further analysis and business strategy planning.
+3. In the last step we will use clustering for <a href='https://github.com/amir-hojjati/Data-Analysis-Online-Retail-Transactions/blob/master/Customer-Segmentation-and-Association-Rule-Learning/Customer-Segmentation-Clustering.ipynb'>customer segmentation</a> and to find customer groups with similar behaviors for further analysis and business strategy planning.
 In this section we will also try to find the best <a href='https://github.com/amir-hojjati/Data-Analysis-Online-Retail-Transactions/blob/master/Customer-Segmentation-and-Association-Rule-Learning/Association-Rule-Mining.ipynb'>association rules</a> and to see which set of products were often bought together.
+
 <br><br>
 <h2> Implementation </h2>
 <hr>
